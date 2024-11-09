@@ -37,7 +37,7 @@ MongoDB (either installed locally or a cloud-based instance like MongoDB Atlas).
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/language-learning-quiz.git
+   git clone https://github.com/KhSudhir2345/LanguageLearning
    cd language-learning-quiz
 2. Install dependencies:
   For Backend:
