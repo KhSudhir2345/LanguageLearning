@@ -1,0 +1,491 @@
+{
+  "Quiz": [
+      {
+          "level": "Basic",
+          "language": "spanish",
+          "questions": [
+              {
+                  "english": "Hello",
+                  "options": [
+                      "Hola",
+                      "Adiós",
+                      "Gracias",
+                      "Por favor"
+                  ],
+                  "spanish": "Hola"
+              },
+              {
+                  "english": "What is your name?",
+                  "options": [
+                      "¿Cómo estás?",
+                      "¿Cuál es tu nombre?",
+                      "¿De dónde eres?",
+                      "¿Puedes ayudarme?"
+                  ],
+                  "spanish": "¿Cuál es tu nombre?"
+              },
+              {
+                  "english": "How are you?",
+                  "options": [
+                      "¿Cómo estás?",
+                      "¿Qué tal?",
+                      "¿De dónde eres?",
+                      "¿Dónde vives?"
+                  ],
+                  "spanish": "¿Cómo estás?"
+              },
+              {
+                  "english": "Thank you",
+                  "options": [
+                      "Gracias",
+                      "Por favor",
+                      "Perdón",
+                      "Lo siento"
+                  ],
+                  "spanish": "Gracias"
+              },
+              {
+                  "english": "Goodbye",
+                  "options": [
+                      "Adiós",
+                      "Hola",
+                      "Por favor",
+                      "Gracias"
+                  ],
+                  "spanish": "Adiós"
+              },
+              {
+                  "english": "Yes",
+                  "options": [
+                      "Sí",
+                      "No",
+                      "Gracias",
+                      "Por favor"
+                  ],
+                  "spanish": "Sí"
+              },
+              {
+                  "english": "No",
+                  "options": [
+                      "No",
+                      "Sí",
+                      "Gracias",
+                      "Perdón"
+                  ],
+                  "spanish": "No"
+              },
+              {
+                  "english": "Please",
+                  "options": [
+                      "Por favor",
+                      "Gracias",
+                      "Perdón",
+                      "Sí"
+                  ],
+                  "spanish": "Por favor"
+              },
+              {
+                  "english": "Sorry",
+                  "options": [
+                      "Lo siento",
+                      "Perdón",
+                      "Gracias",
+                      "Por favor"
+                  ],
+                  "spanish": "Lo siento"
+              },
+              {
+                  "english": "Excuse me",
+                  "options": [
+                      "Perdón",
+                      "Lo siento",
+                      "Hola",
+                      "Gracias"
+                  ],
+                  "spanish": "Perdón"
+              }
+          ]
+      },
+      {
+          "level": "Beginner",
+          "language": "spanish",
+          "questions": [
+              {
+                  "english": "Where are you from?",
+                  "options": [
+                      "¿De dónde eres?",
+                      "¿Cómo te llamas?",
+                      "¿Cómo estás?",
+                      "¿Qué tal?"
+                  ],
+                  "spanish": "¿De dónde eres?"
+              },
+              {
+                  "english": "I am fine",
+                  "options": [
+                      "Estoy bien",
+                      "Soy estudiante",
+                      "Me llamo Juan",
+                      "No sé"
+                  ],
+                  "spanish": "Estoy bien"
+              },
+              {
+                  "english": "How old are you?",
+                  "options": [
+                      "¿Cuántos años tienes?",
+                      "¿Cómo estás?",
+                      "¿De dónde eres?",
+                      "¿Puedes ayudarme?"
+                  ],
+                  "spanish": "¿Cuántos años tienes?"
+              },
+              {
+                  "english": "I like Spain",
+                  "options": [
+                      "Me gusta España",
+                      "Soy estudiante",
+                      "Estoy bien",
+                      "No sé"
+                  ],
+                  "spanish": "Me gusta España"
+              },
+              {
+                  "english": "I am learning Spanish",
+                  "options": [
+                      "Estoy aprendiendo español",
+                      "Soy estudiante",
+                      "¿Dónde está el baño?",
+                      "Me llamo Juan"
+                  ],
+                  "spanish": "Estoy aprendiendo español"
+              },
+              {
+                  "english": "What do you do?",
+                  "options": [
+                      "¿Qué haces?",
+                      "¿De dónde eres?",
+                      "¿Cómo te llamas?",
+                      "¿Tienes hermanos?"
+                  ],
+                  "spanish": "¿Qué haces?"
+              },
+              {
+                  "english": "I am a student",
+                  "options": [
+                      "Soy estudiante",
+                      "Estoy bien",
+                      "Me llamo Juan",
+                      "¿De dónde eres?"
+                  ],
+                  "spanish": "Soy estudiante"
+              },
+              {
+                  "english": "Can you help me?",
+                  "options": [
+                      "¿Puedes ayudarme?",
+                      "¿Cómo estás?",
+                      "¿De dónde eres?",
+                      "¿Qué tal?"
+                  ],
+                  "spanish": "¿Puedes ayudarme?"
+              },
+              {
+                  "english": "I don’t understand",
+                  "options": [
+                      "No entiendo",
+                      "¿Dónde está el baño?",
+                      "Soy estudiante",
+                      "Estoy bien"
+                  ],
+                  "spanish": "No entiendo"
+              },
+              {
+                  "english": "Where is the bathroom?",
+                  "options": [
+                      "¿Dónde está el baño?",
+                      "¿De dónde eres?",
+                      "Soy estudiante",
+                      "Estoy bien"
+                  ],
+                  "spanish": "¿Dónde está el baño?"
+              }
+          ]
+      },
+      {
+          "level": "Elementary",
+          "language": "spanish",
+          "questions": [
+              {
+                  "english": "How was your day?",
+                  "options": [
+                      "¿Cómo fue tu día?",
+                      "¿De dónde eres?",
+                      "¿Qué tal?",
+                      "¿Cómo estás?"
+                  ],
+                  "spanish": "¿Cómo fue tu día?"
+              },
+              {
+                  "english": "What time is it?",
+                  "options": [
+                      "¿Qué hora es?",
+                      "¿Dónde está el baño?",
+                      "¿De dónde eres?",
+                      "¿Qué tal?"
+                  ],
+                  "spanish": "¿Qué hora es?"
+              },
+              {
+                  "english": "I like reading books",
+                  "options": [
+                      "Me gusta leer libros",
+                      "Estoy aprendiendo español",
+                      "¿Dónde está el baño?",
+                      "Soy estudiante"
+                  ],
+                  "spanish": "Me gusta leer libros"
+              },
+              {
+                  "english": "Can I sit here?",
+                  "options": [
+                      "¿Puedo sentarme aquí?",
+                      "¿De dónde eres?",
+                      "¿Qué tal?",
+                      "Soy estudiante"
+                  ],
+                  "spanish": "¿Puedo sentarme aquí?"
+              },
+              {
+                  "english": "Where is the nearest restaurant?",
+                  "options": [
+                      "¿Dónde está el restaurante más cercano?",
+                      "¿De dónde eres?",
+                      "¿Qué tal?",
+                      "¿Cómo estás?"
+                  ],
+                  "spanish": "¿Dónde está el restaurante más cercano?"
+              },
+              {
+                  "english": "I live in Madrid",
+                  "options": [
+                      "Vivo en Madrid",
+                      "Soy estudiante",
+                      "Me gusta leer libros",
+                      "¿De dónde eres?"
+                  ],
+                  "spanish": "Vivo en Madrid"
+              },
+              {
+                  "english": "Can you repeat that?",
+                  "options": [
+                      "¿Puedes repetir eso?",
+                      "¿Dónde está el baño?",
+                      "Soy estudiante",
+                      "¿Qué tal?"
+                  ],
+                  "spanish": "¿Puedes repetir eso?"
+              },
+              {
+                  "english": "I need help",
+                  "options": [
+                      "Necesito ayuda",
+                      "¿Dónde está el baño?",
+                      "¿De dónde eres?",
+                      "Soy estudiante"
+                  ],
+                  "spanish": "Necesito ayuda"
+              },
+              {
+                  "english": "What does this mean?",
+                  "options": [
+                      "¿Qué significa esto?",
+                      "¿De dónde eres?",
+                      "Soy estudiante",
+                      "¿Dónde está el baño?"
+                  ],
+                  "spanish": "¿Qué significa esto?"
+              },
+              {
+                  "english": "How much does this cost?",
+                  "options": [
+                      "¿Cuánto cuesta esto?",
+                      "Soy estudiante",
+                      "¿De dónde eres?",
+                      "¿Qué tal?"
+                  ],
+                  "spanish": "¿Cuánto cuesta esto?"
+              }
+          ]
+      },
+      
+      {
+        "level": "Basic",
+        "language": "hindi",
+        "questions": [
+          {
+            "question": "Hello",
+            "options": ["Namaste", "Alvida", "Dhanyavaad", "Kripya"],
+            "answer": "Namaste"
+          },
+          {
+            "question": "What is your name?",
+            "options": ["Kaise ho?", "Aapka naam kya hai?", "Aap kahaan se hain?", "Kya aap meri madad kar sakte hain?"],
+            "answer": "Aapka naam kya hai?"
+          },
+          {
+            "question": "How are you?",
+            "options": ["Kaise ho?", "Kya haal hai?", "Aap kahaan se hain?", "Aap kahaan rehte hain?"],
+            "answer": "Kaise ho?"
+          },
+          {
+            "question": "Thank you",
+            "options": ["Dhanyavaad", "Kripya", "Maaf kijiye", "Mujhe khed hai"],
+            "answer": "Dhanyavaad"
+          },
+          {
+            "question": "Goodbye",
+            "options": ["Alvida", "Namaste", "Kripya", "Dhanyavaad"],
+            "answer": "Alvida"
+          },
+          {
+            "question": "Yes",
+            "options": ["Haan", "Nahi", "Dhanyavaad", "Kripya"],
+            "answer": "Haan"
+          },
+          {
+            "question": "No",
+            "options": ["Nahi", "Haan", "Dhanyavaad", "Maaf kijiye"],
+            "answer": "Nahi"
+          },
+          {
+            "question": "Please",
+            "options": ["Kripya", "Dhanyavaad", "Maaf kijiye", "Haan"],
+            "answer": "Kripya"
+          },
+          {
+            "question": "Sorry",
+            "options": ["Mujhe khed hai", "Maaf kijiye", "Dhanyavaad", "Kripya"],
+            "answer": "Mujhe khed hai"
+          },
+          {
+            "question": "Excuse me",
+            "options": ["Maaf kijiye", "Mujhe khed hai", "Namaste", "Dhanyavaad"],
+            "answer": "Maaf kijiye"
+          }
+        ]
+      },
+      {
+        "level": "Beginner",
+        "language": "hindi",
+        "questions": [
+          {
+            "question": "Where are you from?",
+            "options": ["Aap kahaan se hain?", "Aapka naam kya hai?", "Kaise ho?", "Kya haal hai?"],
+            "answer": "Aap kahaan se hain?"
+          },
+          {
+            "question": "I am fine",
+            "options": ["Main theek hoon", "Main chhatra hoon", "Mera naam Raj hai", "Mujhe nahi pata"],
+            "answer": "Main theek hoon"
+          },
+          {
+            "question": "How old are you?",
+            "options": ["Aap kitne saal ke hain?", "Kaise ho?", "Aap kahaan se hain?", "Kya aap meri madad kar sakte hain?"],
+            "answer": "Aap kitne saal ke hain?"
+          },
+          {
+            "question": "I like India",
+            "options": ["Mujhe Bharat pasand hai", "Main chhatra hoon", "Main theek hoon", "Mujhe nahi pata"],
+            "answer": "Mujhe Bharat pasand hai"
+          },
+          {
+            "question": "I am learning Hindi",
+            "options": ["Main Hindi seekh raha hoon", "Main chhatra hoon", "Bathroom kahaan hai?", "Mera naam Raj hai"],
+            "answer": "Main Hindi seekh raha hoon"
+          },
+          {
+            "question": "What do you do?",
+            "options": ["Aap kya karte hain?", "Aap kahaan se hain?", "Aapka naam kya hai?", "Kya aapke bhai behen hain?"],
+            "answer": "Aap kya karte hain?"
+          },
+          {
+            "question": "I am a student",
+            "options": ["Main chhatra hoon", "Main theek hoon", "Mera naam Raj hai", "Aap kahaan se hain?"],
+            "answer": "Main chhatra hoon"
+          },
+          {
+            "question": "Can you help me?",
+            "options": ["Kya aap meri madad kar sakte hain?", "Kaise ho?", "Aap kahaan se hain?", "Kya haal hai?"],
+            "answer": "Kya aap meri madad kar sakte hain?"
+          },
+          {
+            "question": "I don’t understand",
+            "options": ["Mujhe samajh nahi aata", "Bathroom kahaan hai?", "Main chhatra hoon", "Main theek hoon"],
+            "answer": "Mujhe samajh nahi aata"
+          },
+          {
+            "question": "Where is the bathroom?",
+            "options": ["Bathroom kahaan hai?", "Aap kahaan se hain?", "Main chhatra hoon", "Main theek hoon"],
+            "answer": "Bathroom kahaan hai?"
+          }
+        ]
+      },
+      {
+        "level": "Elementary",
+        "language": "hindi",
+        "questions": [
+          {
+            "question": "How was your day?",
+            "options": ["Aapka din kaisa tha?", "Aap kahaan se hain?", "Kya haal hai?", "Kaise ho?"],
+            "answer": "Aapka din kaisa tha?"
+          },
+          {
+            "question": "What time is it?",
+            "options": ["Kitne baje hain?", "Bathroom kahaan hai?", "Aap kahaan se hain?", "Kya haal hai?"],
+            "answer": "Kitne baje hain?"
+          },
+          {
+            "question": "I like reading books",
+            "options": ["Mujhe kitaabein padhne ka shauk hai", "Main Hindi seekh raha hoon", "Bathroom kahaan hai?", "Main chhatra hoon"],
+            "answer": "Mujhe kitaabein padhne ka shauk hai"
+          },
+          {
+            "question": "Can I sit here?",
+            "options": ["Kya main yahan baith sakta hoon?", "Aap kahaan se hain?", "Kya haal hai?", "Main chhatra hoon"],
+            "answer": "Kya main yahan baith sakta hoon?"
+          },
+          {
+            "question": "Where is the nearest restaurant?",
+            "options": ["Nazdeeki restaurant kahaan hai?", "Aap kahaan se hain?", "Kya haal hai?", "Kaise ho?"],
+            "answer": "Nazdeeki restaurant kahaan hai?"
+          },
+          {
+            "question": "I live in Delhi",
+            "options": ["Main Dilli mein rehta hoon", "Main chhatra hoon", "Mujhe kitaabein padhne ka shauk hai", "Aap kahaan se hain?"],
+            "answer": "Main Dilli mein rehta hoon"
+          },
+          {
+            "question": "Can you repeat that?",
+            "options": ["Kya aap dobara keh sakte hain?", "Bathroom kahaan hai?", "Main chhatra hoon", "Kya haal hai?"],
+            "answer": "Kya aap dobara keh sakte hain?"
+          },
+          {
+            "question": "I need help",
+            "options": ["Mujhe madad chahiye", "Bathroom kahaan hai?", "Aap kahaan se hain?", "Main chhatra hoon"],
+            "answer": "Mujhe madad chahiye"
+          },
+          {
+            "question": "What does this mean?",
+            "options": ["Iska kya matlab hai?", "Aap kahaan se hain?", "Main chhatra hoon", "Bathroom kahaan hai?"],
+            "answer": "Iska kya matlab hai?"
+          },
+          {
+            "question": "How much does this cost?",
+            "options": ["Yeh kitne ka hai?", "Main chhatra hoon", "Aap kahaan se hain?", "Kya haal hai?"],
+            "answer": "Yeh kitne ka hai?"
+          }
+        ]
+      }
+  ]
+}
