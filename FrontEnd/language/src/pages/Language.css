@@ -1,0 +1,180 @@
+.container {
+    width: 1280px;
+    height: 832px;
+    position: relative;
+    background: #0F0F0F;
+  }
+  
+  .inner-container {
+    width: 992px;
+    height: 378px;
+    left: 144px;
+    top: 223px;
+    position: absolute;
+  }
+  
+  .card {
+    width: 251px;
+    padding: 14px 10px;
+    border-radius: 12px;
+    position: absolute;
+  }
+  
+  .gradient-card1 {
+    left: 33px;
+    top: 181px;
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(91deg, #628EFF 0%, #8740CD 53%, #580475 100%);
+  }
+  
+  .gradient-card2 {
+    left: 339px;
+    top: 414px;
+    background: linear-gradient(91deg, #628EFF 0%, #8740CD 53%, #580475 100%);
+  }
+  
+  .gradient-card3 {
+    left: 187px;
+    top: 286px;
+    background: linear-gradient(91deg, #2E4CEE 0%, #221EBF 53%, #040F75 100%);
+  }
+  
+  .gradient-card4 {
+    left: 556px;
+    top: 286px;
+    background: linear-gradient(91deg, #2E4CEE 0%, #221EBF 53%, #040F75 100%);
+  }
+  
+  .gradient-card5 {
+    left: 645px;
+    top: 181px;
+    background: linear-gradient(91deg, #628EFF 0%, #8740CD 53%, #580475 100%);
+  }
+  
+  .text-container {
+    width: 795px;
+    height: 233px;
+    left: 99px;
+    top: -81px;
+    position: absolute;
+  }
+  
+  .image {
+    width: 209px;
+    height: 206px;
+    left: 527px;
+    top: 27px;
+    position: absolute;
+  }
+  
+  .header-text {
+    width: 484px;
+    height: 107px;
+    left: 43px;
+    top: 102px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    font-family: Pixelify Sans;
+    font-weight: 500;
+    word-wrap: break-word;
+  }
+  
+  .continue-text {
+    padding-top: 11px;
+    padding-left: 4px;
+    padding-right: 6px;
+    left: 172px;
+    top: 676px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    width: 927px;
+    height: 95px;
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    font-family: Pixelify Sans;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .sidebar {
+    width: 323px;
+    height: 832px;
+    padding: 40px 17.75px;
+    left: 0;
+    top: 13px;
+    position: absolute;
+    background: linear-gradient(171deg, rgba(15, 15, 15, 0.60) 0%, rgba(57, 57, 57, 0.38) 70%, rgba(117, 117, 117, 0.08) 100%);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  
+  .sidebar-items {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .sidebar-item {
+    width: 276px;
+    height: 52.5px;
+    padding: 16px;
+    border-radius: 8px;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 16px;
+    display: inline-flex;
+  }
+  
+  .sidebar-link {
+    width: 276px;
+    height: 52.5px;
+    padding: 16px;
+    border-radius: 8px;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 16px;
+    display: inline-flex;
+  }
+  
+  .sidebar-icon {
+    width: 20.5px;
+    height: 20.5px;
+    position: relative;
+  }
+  
+  .sidebar-icon-inner {
+    width: 15.38px;
+    height: 17.08px;
+    left: 2.56px;
+    top: 1.71px;
+    position: absolute;
+    border: 2px white solid;
+  }
+  
+  .sidebar-icon-inner.circle {
+    width: 17.08px;
+    height: 17.08px;
+    border-radius: 50%;
+  }
+  
+  .sidebar-text {
+    color: #9E9E9E;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 19.2px;
+    word-wrap: break-word;
+  }
+  

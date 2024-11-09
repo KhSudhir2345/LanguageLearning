@@ -1,0 +1,193 @@
+/* Container */
+.container {
+    width: 1280px;
+    height: 832px;
+    position: relative;
+    background: #0F0F0F;
+  }
+  
+  /* Welcome Text */
+  .welcome-text {
+    left: 17px;
+    top: 367px;
+    position: absolute;
+    color: white;
+    font-size: 96px;
+    font-family: 'Pixelify Sans';
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  /* Circles */
+  .circle-large {
+    width: 302px;
+    height: 302px;
+    left: 648px;
+    top: 19px;
+    position: absolute;
+    background: linear-gradient(180deg, #530061 0%, #0D0A30 100%);
+    border-radius: 9999px;
+  }
+  
+  .circle-small {
+    width: 220px;
+    height: 220px;
+    left: 1031px;
+    top: 693.97px;
+    position: absolute;
+    transform: rotate(-28.5deg);
+    background: linear-gradient(180deg, #300061 0%, #0A1030 100%);
+    border-radius: 9999px;
+  }
+  
+  /* Form Container */
+  .form-container {
+    padding: 97px 40px 84px 40px;
+    left: 740px;
+    top: 18px;
+    position: absolute;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.14) 0%, rgba(0, 0, 0, 0.14) 100%), linear-gradient(321deg, rgba(191, 191, 191, 0.06) 0%, rgba(0, 0, 0, 0) 100%);
+    box-shadow: -8px 4px 5px rgba(0, 0, 0, 0.24);
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px rgba(255, 255, 255, 0.60) solid;
+    backdrop-filter: blur(53px);
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  /* Form Content */
+  .form-content {
+    align-self: stretch;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 101px;
+  }
+  
+  .login-title {
+    color: white;
+    font-size: 36px;
+    font-family: 'Pixelify Sans';
+    font-weight: 600;
+  }
+  
+  .input-wrapper, .password-wrapper {
+    width: 400px;
+    padding: 14px 16px;
+    border-radius: 12px;
+    border: 1px solid white;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .input-field {
+    color: white;
+    font-size: 20px;
+    font-family: 'Pixelify Sans';
+    font-weight: 400;
+  }
+  
+  .eye-icon {
+    height: 18px;
+    padding: 6.72px 1.66px;
+    background: white;
+    width: 14.67px;
+  }
+  
+  .remember-me {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+  }
+  
+  .checkbox {
+    width: 18px;
+    height: 18px;
+    padding: 2.25px;
+    background: linear-gradient(180deg, #7CC1F3 0%, #D27EEF 100%);
+  }
+  
+  .remember-text {
+    color: white;
+    font-size: 16px;
+    font-family: 'Noto Sans';
+    font-weight: 500;
+  }
+  
+  .login-button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .login-button {
+    width: 400px;
+    padding: 14px;
+    background: linear-gradient(91deg, #628EFF 0%, #8740CD 53%, #580475 100%);
+    border-radius: 12px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Pixelify Sans';
+    font-weight: 600;
+  }
+  
+  .forgot-password {
+    color: white;
+    font-size: 16px;
+    font-family: 'Noto Sans';
+    font-weight: 500;
+  }
+  
+  /* Divider */
+  .divider {
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .line {
+    width: 170px;
+    border: 2px solid #4D4D4D;
+  }
+  
+  .divider-text {
+    color: #4D4D4D;
+    font-size: 16px;
+    font-family: 'Noto Sans';
+    font-weight: 500;
+  }
+  
+  /* Social Icons */
+  .social-icons {
+    display: inline-flex;
+    align-items: center;
+    gap: 18px;
+  }
+  
+  /* Signup and Footer Links */
+  .signup {
+    color: white;
+    font-size: 16px;
+    font-family: 'Noto Sans';
+    font-weight: 500;
+  }
+  
+  .footer-links {
+    width: 400px;
+    padding: 4px 6px;
+    display: inline-flex;
+    justify-content: space-between;
+  }
+  
+  .footer-link {
+    color: white;
+    font-size: 16px;
+    font-family: 'Noto Sans';
+    font-weight: 400;
+  }
+  

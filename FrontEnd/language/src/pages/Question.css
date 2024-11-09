@@ -1,0 +1,200 @@
+/* Container */
+.container {
+    width: 1280px;
+    height: 832px;
+    position: relative;
+    background: #0f0f0f;
+  }
+  
+  /* Question Box */
+  .question-box {
+    width: 1053px;
+    height: 184px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    left: 113px;
+    top: 138px;
+    position: absolute;
+    border-radius: 12px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .question-text {
+    width: 1025px;
+    height: 62px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Pixelify Sans';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  /* Option Boxes */
+  .option-box {
+    width: 459px;
+    height: 129px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: absolute;
+    border-radius: 12px;
+    border: 1px solid white;
+  }
+  
+  .option1 {
+    left: 121px;
+    top: 381px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .option2 {
+    left: 707px;
+    top: 381px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .option3 {
+    left: 707px;
+    top: 586px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .option4 {
+    left: 121px;
+    top: 586px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Title */
+  .title {
+    width: 592px;
+    height: 78px;
+    left: 284px;
+    top: 36px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 55px;
+    font-family: 'Pixelify Sans';
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  /* Buttons */
+  .next-button, .previous-button {
+    width: 137px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    position: absolute;
+    border-radius: 12px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .next-button {
+    left: 1039px;
+    top: 738px;
+  }
+  
+  .previous-button {
+    width: 162px;
+    left: 95px;
+    top: 738px;
+  }
+  
+  .button-text {
+    width: 148px;
+    color: white;
+    font-size: 32px;
+    font-family: 'Pixelify Sans';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    width: 208px;
+    height: 832px;
+    left: 0;
+    top: 0;
+    position: absolute;
+  }
+  
+  .sidebar-content {
+    width: 118.09px;
+    height: 832px;
+    padding: 40px 32px;
+    position: absolute;
+    background: #0f0f0f;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .icon-group {
+    height: 157.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+  }
+  
+  .icon {
+    width: 20.5px;
+    height: 20.5px;
+    border: 2px solid white;
+    border-radius: 8px;
+  }
+  
+  /* Profile Icon */
+  .profile-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 999px;
+    background-image: url(https://via.placeholder.com/40x40);
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: relative;
+  }
+  
+  .profile-status {
+    width: 10px;
+    height: 10px;
+    background: #b5ffc1;
+    border-radius: 999px;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+  }
+  
+  /* Small Icon */
+  .small-icon {
+    width: 30px;
+    height: 30px;
+    left: 0;
+    top: 0;
+    position: absolute;
+  }
+  

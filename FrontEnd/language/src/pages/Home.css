@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    font-family: 'Pixelify Sans', sans-serif;
+  }
+  
+  .container {
+    width: 1280px;
+    height: 832px;
+    position: relative;
+    background-color: #0F0F0F;
+  }
+  
+  .main-text-container {
+    width: 723px;
+    padding-top: 43px;
+    left: 284px;
+    top: 80px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .main-text {
+    width: 723px;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .auth-container {
+    width: 636px;
+    height: 436px;
+    padding: 155px 118px 149px;
+    left: 322px;
+    top: 281px;
+    position: absolute;
+    background: linear-gradient(114deg, rgba(0, 0, 0, 0.14) 0%, rgba(102, 102, 102, 0.14) 39%), linear-gradient(321deg, rgba(191.25, 191.25, 191.25, 0.06) 0%, rgba(0, 0, 0, 0) 100%);
+    box-shadow: -8px 4px 5px rgba(0, 0, 0, 0.24);
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.60);
+    backdrop-filter: blur(53px);
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+  
+  .auth-button {
+    align-self: stretch;
+    padding: 14px 10px;
+    border-radius: 12px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .login-button {
+    background: linear-gradient(91deg, #628EFF 0%, #8740CD 53%, #580475 100%);
+  }
+  
+  .signup-button {
+    background: linear-gradient(91deg, #2E4CEE 0%, #221EBF 53%, #040F75 100%);
+  }
+  
+  .sidebar {
+    width: 208px;
+    height: 832px;
+    left: -6px;
+    top: 0;
+    position: absolute;
+  }
+  
+  .sidebar-content {
+    width: 118px;
+    height: 832px;
+    padding: 40px 32px;
+    background-color: #0F0F0F;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .icon-container,
+  .bottom-icons {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  
+  .icon {
+    width: 20.5px;
+    height: 20.5px;
+    padding: 5px;
+    border: 2px solid white;
+    border-radius: 8px;
+  }
+  
+  .user-profile {
+    padding: 24px;
+    border-radius: 8px;
+    border: 1px solid white;
+  }
+  
+  .profile-icon {
+    width: 40px;
+    height: 40px;
+    background-image: url('https://via.placeholder.com/40x40');
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .status-indicator {
+    width: 10px;
+    height: 10px;
+    background-color: #B5FFC1;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  

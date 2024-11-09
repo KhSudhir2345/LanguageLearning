@@ -1,0 +1,185 @@
+/* Container Styling */
+.container {
+    width: 1280px;
+    height: 832px;
+    position: relative;
+    background: #0f0f0f;
+    color: white;
+    font-family: 'Pixelify Sans', sans-serif;
+  }
+  
+  /* Score Section */
+  .score-section {
+    width: 1150px;
+    height: 306px;
+    position: absolute;
+    left: 62px;
+    top: 48px;
+  }
+  
+  .score-circle {
+    width: 183px;
+    height: 183px;
+    position: absolute;
+    left: 112px;
+    top: 62px;
+    background: linear-gradient(113deg, rgba(3, 15, 116, 0.9) 0%, rgba(34, 30, 191, 0.9) 58%, #2e4cee 100%);
+    border-radius: 50%;
+  }
+  
+  .score-line {
+    width: 425px;
+    height: 0;
+    position: absolute;
+    left: 561px;
+    border-top: 1px solid white;
+  }
+  
+  .score-text {
+    width: auto;
+    height: 39px;
+    position: absolute;
+    left: 546px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 400;
+  }
+  
+  .score-number {
+    width: 108px;
+    height: 95px;
+    position: absolute;
+    left: 153px;
+    top: 117px;
+    font-size: 64px;
+    text-align: center;
+  }
+  
+  /* Progress Section */
+  .progress-section {
+    width: 1115px;
+    height: 392px;
+    position: absolute;
+    left: 82px;
+    top: 412px;
+  }
+  
+  .title {
+    width: 592px;
+    height: 78px;
+    position: absolute;
+    left: 244px;
+    top: 42px;
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  .bonus {
+    width: 614px;
+    height: 69px;
+    position: absolute;
+    left: 240px;
+    top: 138px;
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  .penalty {
+    width: 617px;
+    height: 70px;
+    position: absolute;
+    left: 237px;
+    top: 228px;
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  .progress-border {
+    width: 658px;
+    height: 355px;
+    padding: 14px 16px;
+    position: absolute;
+    left: 228px;
+    top: 22px;
+    border-radius: 12px;
+    border: 1px solid white;
+    opacity: 0.1;
+  }
+  
+  .progress-label {
+    width: 265px;
+    height: 64px;
+    position: absolute;
+    left: 338px;
+    top: 301px;
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  /* Current Level */
+  .current-level {
+    width: 614px;
+    height: 69px;
+    position: absolute;
+    left: 315px;
+    top: 373px;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  /* Buttons */
+  .button {
+    width: 164px;
+    padding: 14px 16px;
+    position: absolute;
+    border-radius: 12px;
+    border: 1px solid white;
+    font-size: 32px;
+    text-align: center;
+  }
+  
+  .next-button {
+    left: 1069px;
+    top: 738px;
+  }
+  
+  .prev-button {
+    left: 99px;
+    top: 738px;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    width: 118.09px;
+    height: 832px;
+    position: absolute;
+    left: -5px;
+    top: -4px;
+    background: #0f0f0f;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 32px;
+  }
+  
+  .sidebar-item {
+    width: 20.5px;
+    height: 20.5px;
+    padding: 16px;
+    border-radius: 8px;
+    border: 2px solid white;
+    margin-bottom: 16px;
+  }
+  
+  .icon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 26px;
+    top: 14px;
+  }
+  
